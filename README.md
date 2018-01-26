@@ -4,6 +4,5 @@ Basic application made using react (no redux) where user can search for the vide
 
 To run this, checkout this repo and install dependencies, like:
 
-> npm install
-> npm start
-```
+npm install
+npm start
